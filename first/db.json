@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": "78bd",
+      "username": "gopal",
+      "password": "123"
+    },
+    {
+      "id": "12ee",
+      "username": "ashwin",
+      "password": "123"
+    }
+  ],
+  "purchaseHistory": [
+    {
+      "id": "b13b",
+      "username": "gopal",
+      "hotel": "Luxury Palace",
+      "checkInDate": "2006-02-01",
+      "checkOutDate": "2006-02-02",
+      "guests": "4",
+      "amount": "100",
+      "bookingDate": "10/24/2024"
+    },
+    {
+      "id": "a0db",
+      "username": "ashwin",
+      "hotel": "Elite Retreat",
+      "checkInDate": "2006-02-01",
+      "checkOutDate": "2006-02-02",
+      "guests": "14",
+      "amount": "100",
+      "bookingDate": "10/24/2024"
+    },
+    {
+      "id": "38b5",
+      "username": "gopal",
+      "hotel": "Luxury Palace",
+      "checkInDate": "2002-10-28",
+      "checkOutDate": "2005-10-28",
+      "guests": 1,
+      "amount": "100",
+      "bookingDate": "10/24/2024"
+    },
+    {
+      "id": "3ea6",
+      "username": "ashwin",
+      "hotel": "Serenity Hotel",
+      "checkInDate": "2006-04-03",
+      "checkOutDate": "2006-04-04",
+      "guests": "5",
+      "amount": "100",
+      "bookingDate": "10/24/2024"
+    },
+    {
+      "id": "245f",
+      "username": "ashwin",
+      "hotel": "Elite Retreat",
+      "checkInDate": "2006-04-03",
+      "checkOutDate": "2006-04-04",
+      "guests": "5",
+      "amount": "100",
+      "bookingDate": "10/24/2024"
+    }
+  ]
+}
